@@ -1,6 +1,6 @@
 (module Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-3553_Horizontal_Closed (layer F.Cu) (tedit 59E58430)
-  (descr "Fuseholder, 5x20,horizontal, Shurter, model FAB")
-  (tags "Fuseholder, 5x20mm, closed, horizontal, FAB, Schurter")
+  (descr "Fuseholder 5x20mm horizontal Shurter model FAB")
+  (tags "Fuseholder 5x20mm closed horizontal FAB Schurter")
   (solder_mask_margin 1)
   (clearance 1)
   (fp_text reference F* (at 16.6 -1) (layer F.SilkS)
